@@ -1,5 +1,6 @@
-<img src="assets/banner-dark.png" width="100%" alt="Changjin Park GitHub Banner"/><br>
+<img src="assets/banner-dark.png" width="100%" alt="Changjin Park GitHub Banner"/>
 
+<br>
 
 # 안녕하세요, 박창진입니다.👋  
 

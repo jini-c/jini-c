@@ -79,10 +79,12 @@
 ## 📊 GitHub Stats  
 <br>
 
-![Changjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini-c&show_icons=true&theme=default&hide_title=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini-c&layout=compact&theme=default&hide_border=true)
-<br><br>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jini-c&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jini-c&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" width="48%" />
+  
+</div>
 
 ---
 

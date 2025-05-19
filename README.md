@@ -1,3 +1,5 @@
+<img src="assets/banner.png" width="100%" alt="Changjin Park GitHub Banner"/>
+
 # 👋 안녕하세요, 박창진입니다.
 
 🎯 패션 업계의 제작 경험을 바탕으로  

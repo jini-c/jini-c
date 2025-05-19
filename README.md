@@ -16,7 +16,7 @@
 
 ---
 
-<br>
+
 ## 🚀 Projects <br><br>
 
 ### 🧠 AI-Agent 기반 재활용 쓰레기 자동 분류 시스템 <br><br>

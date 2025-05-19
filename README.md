@@ -1,5 +1,6 @@
 <img src="assets/banner-dark.png" width="100%" alt="Changjin Park GitHub Banner"/>
 
+
 # 안녕하세요, 박창진입니다.👋  
 
 **AI와 사람 사이의 연결점**,
@@ -11,35 +12,9 @@
 최근에는 AI-agent 구조, 객체지향 설계, 소프트웨어 기획 등을 중심으로 공부하고 있으며,  
 작은 아이디어도 실행 가능한 프로토타입으로 구현해보고자 노력하고 있어요.
 
----
-
-## 🛠 사용 언어 및 도구
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat-square&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
-## 🎓 Certificates & Education
-
-➡️ 현재 준비 중이거나 취득을 목표로 하고 있는 자격증입니다.
-
-⛏️ 정보처리기능사 *(8월 ~ 11월)*
-⛏️ 빅데이터분석기사 *(8월 ~ 11월)*
-⛏️ ADSP *(8월 ~ 9월)*
-⛏️ 영어 자격증 *(OPIC or 토스)*
-
-## 📌 Currently Focusing On
-
-◻️ Java와 객체지향 프로그래밍
-◻️ Python 기반 데이터 분석 프로젝트 설계
-◻️ GitHub 중심 포트폴리오 정리
-◻️ UX 기반의 AI 서비스 구상
-
----
 
 ## 🚀 Projects
 
@@ -57,29 +32,51 @@
 - 관심 분야 데이터를 수집·분석하여 인사이트 도출  
 - Pandas, Matplotlib, scikit-learn 등을 활용한 실습 중심 프로젝트 구상 중
 
----
-
-## ✨ 가치관
-
-> “기술은 사람의 감정과 흐름을 이해하고 연결하는 도구라고 믿습니다.”  
-> **AI 에이전트, 심리 기반 자동화 서비스**에 깊은 관심을 갖고 있습니다.
 
 ---
 
-## 📌 Goals
 
-- 🎯 사용자를 고려한 **UX 기반의 AI 서비스** 설계
-- 🎯 실무형 프로젝트 경험과 지속 가능한 성장 기반 마련
-- 🎯 기술, 감성과 구조를 연결한 창의적 솔루션 개발
+## 🛠 사용 언어 및 도구
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat-square&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+
+---
+
+
+## 📌 Currently Focusing On
+
+◻️ Java와 객체지향 프로그래밍
+◻️ Python 기반 데이터 분석 프로젝트 설계
+◻️ GitHub 중심 포트폴리오 정리
+◻️ UX 기반의 AI 서비스 구상
+
+
+## 🎓 Certificates & Education
+
+➡️ 현재 준비 중이거나 취득을 목표로 하고 있는 자격증입니다.
+
+⛏️ 정보처리기능사 *(8월 ~ 11월)*
+⛏️ 빅데이터분석기사 *(8월 ~ 11월)*
+⛏️ ADSP *(8월 ~ 9월)*
+⛏️ 영어 자격증 *(OPIC or 토스)*
+
 
 ---
 
-## 📊 GitHub 활동 통계
-
-![Changjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini-c&show_icons=true&theme=default&hide_title=true&hide_border=true)
-
----
 
 📫 **Contact**  
 📫 이메일: pwh1011@naver.com
 🌐 깃허브: [jini-c](https://github.com/jini-c)
+
+
+---
+
+
+## 📊 GitHub 활동 통계
+
+![Changjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini-c&show_icons=true&theme=default&hide_title=true&hide_border=true)

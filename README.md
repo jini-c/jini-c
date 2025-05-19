@@ -41,9 +41,6 @@
 패션에서 얻은 ‘감각’, 금융에서 익힌 ‘분석’,  
 그리고 기술로 구현하는 ‘구조’를 하나로 엮어  
 사람 중심의 AI 서비스를 설계하고자 합니다.
-<br>
-
-📌 이제는 이 경험들을 기술로 연결하며, 사람을 위한 구조를 설계하고자 합니다.  
 <br><br>
 
 ---
@@ -122,3 +119,6 @@
 📚 Tech Blog (Coming Soon): https://changjin.dev  
 📖 Tistory (Personal Journal): https://jini-c.tistory.com
 <br>
+
+> "기술은 사람을 위한 따뜻한 언어가 될 수 있다고 믿습니다."
+

@@ -14,6 +14,18 @@
 
 ---
 
+## 🛠 사용 언어 및 도구  
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat-square&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+<br><br>
+
+---
+
 ## 🚀 Projects  
 <br>
 
@@ -36,17 +48,6 @@
 
 ---
 
-## 🛠 사용 언어 및 도구  
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat-square&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-<br><br>
-
----
 
 ## 📌 Currently Focusing On  
 <br>

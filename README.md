@@ -134,4 +134,6 @@
 <br>
 
 > "기술은 사람을 위한 따뜻한 언어가 될 수 있다고 믿습니다."
+>
+> [C 언어 학습 내용](https://github.com/jini-c/02-C-language)
 

@@ -48,7 +48,7 @@
 ## 🛠 사용 언어 및 도구  
 <br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python)
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python) | [Python 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python) |
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)

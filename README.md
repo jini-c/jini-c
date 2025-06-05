@@ -48,7 +48,7 @@
 ## 🛠 사용 언어 및 도구  
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [Python 학습내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -134,6 +134,4 @@
 <br>
 
 > "기술은 사람을 위한 따뜻한 언어가 될 수 있다고 믿습니다."
->
-> [C 언어 학습 내용](https://github.com/jini-c/02-C-language)
 

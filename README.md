@@ -48,11 +48,16 @@
 ## 🛠 사용 언어 및 도구  
 <br>
 
+## 🛠 사용 언어 및 도구
+
+| 언어/도구 | 설명 |
+|-----------|------|
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python) | [Python 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python) |
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat-square&logo=python&logoColor=black)  
+| [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/02%20Java) | [Java 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/02%20Java) |
+| [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/03%20C) | [C 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/03%20C) |
+| [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/04%20Oracle) | [Oracle SQL 학습 내용](https://github.com/jini-c/HighTech-AI-Software/tree/main/04%20Oracle) |
+| [![Tkinter](https://img.shields.io/badge/Tkinter-FFDA00?style=flat&logo=python&logoColor=black)](https://github.com/jini-c/HighTech-AI-Software/tree/main/05%20Tkinter) | [Tkinter 실습](https://github.com/jini-c/HighTech-AI-Software/tree/main/05%20Tkinter) |
+
 <br><br>
 
 ---

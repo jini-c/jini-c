@@ -3,24 +3,20 @@
 # 안녕하세요, 박창진입니다 👋  
 <br>
 
+## 👨‍💻 About Me
+
 **AI와 사람 사이의 연결점**,  
-기술과 감성을 함께 고민하는 예비 개발자입니다.  
+기술과 감성을 함께 고민하는 예비 개발자입니다.
+
 저는 데이터를 기반으로 실제 문제를 해결하고,  
-사용자 경험(UX)과 연결된 기술적 접근에 관심이 많습니다.  
-<br>
+사용자 경험(UX)과 연결된 기술적 접근에 깊은 관심이 있습니다.  
+사람의 감정을 이해하고 연결하는 기술을 꿈꾸며,  
+AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매료되어 있습니다.
+
 최근에는 AI-agent 구조, 객체지향 설계, 소프트웨어 기획 등을 중심으로 공부하고 있으며,  
-작은 아이디어도 실행 가능한 프로토타입으로 구현해보고자 노력하고 있어요.  
-<br><br>
-
----
-
-## 👨‍💻 Who I Am  
-<br>
-
-- 사람의 감정을 이해하고 연결하는 기술을 꿈꿉니다  
-- AI 에이전트 / UX 기반 서비스 / 심리적 자동화 시스템에 관심  
-- 문제를 코드로 풀어내는 데에서 의미를 찾고 있습니다  
-<br><br>
+작은 아이디어도 실행 가능한 프로토타입으로 구현해보려 노력 중입니다.  
+문제를 코드로 풀어내는 과정에서 의미를 찾고,  
+기술을 통해 사람의 마음에 닿는 경험을 만들고 싶습니다.
 
 ---
 
@@ -45,10 +41,21 @@
 
 ---
 
-## 🛠 사용 언어 및 도구  
+## 🎓 Certificates & Education  
 <br>
 
+> 현재 준비 중인 자격증입니다.
+
+- ⛏️ 정보처리기능사 *(2025.08 ~ 11)*  
+- ⛏️ 빅데이터분석기사 *(2025.08 ~ 11)*  
+- ⛏️ ADSP *(2025.08 ~ 09)*  
+- ⛏️ 영어 자격증 *(OPIC or TOEIC SPEAKING)*  
+<br><br>
+
+---
+
 ## 🛠 사용 언어 및 도구
+<br>
 
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/01%20Python) Python 학습 내용
 - [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/jini-c/HighTech-AI-Software/tree/main/02%20Java) Java 학습 내용
@@ -102,19 +109,6 @@
 - Python 기반 데이터 분석 프로젝트 설계  
 - GitHub 중심 포트폴리오 정리  
 - UX 기반 AI 서비스 구상  
-<br><br>
-
----
-
-## 🎓 Certificates & Education  
-<br>
-
-> 현재 준비 중인 자격증입니다.
-
-- ⛏️ 정보처리기능사 *(2025.08 ~ 11)*  
-- ⛏️ 빅데이터분석기사 *(2025.08 ~ 11)*  
-- ⛏️ ADSP *(2025.08 ~ 09)*  
-- ⛏️ 영어 자격증 *(OPIC or TOEIC SPEAKING)*  
 <br><br>
 
 ---

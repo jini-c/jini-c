@@ -131,5 +131,7 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 📖 Tistory (Personal Journal): https://jini-c.tistory.com
 <br>
 
+---
+
 > "기술은 사람을 위한 따뜻한 언어가 될 수 있다고 믿습니다."
 

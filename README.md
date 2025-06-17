@@ -85,7 +85,7 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 ### 📊 데이터 분석 기반 개인 프로젝트  
 > 2025년 진행 예정  
 - 관심 분야 데이터 수집 및 인사이트 도출  
-- Pandas, Matplotlib, scikit-learn 중심 실습 프로젝트 예정  
+- R, Pandas, Matplotlib, scikit-learn 중심 실습 프로젝트 예정  
 <br><br>
 
 ### 🎬 영상 + 트렌드 분석 기반 개인 프로젝트

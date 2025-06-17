@@ -24,7 +24,7 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 ## 🏫 Background  
 <br>
 
-🎓 **금융정보공학 전공**  
+🎓 **서경대학교 금융정보공학 전공**  
 데이터 기반의 문제 해결과 수치 분석을 배우며,  
 정보 구조와 시스템 사고에 익숙해졌습니다.  
 <br>
@@ -49,7 +49,8 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 
 - ⛏️ 정보처리기능사 *(2025.08 ~ 11)*  
 - ⛏️ 빅데이터분석기사 *(2025.08 ~ 11)*  
-- ⛏️ ADSP *(2025.08 ~ 09)*  
+- ⛏️ ADSP *(2025.08 ~ 09)*
+- ⛏️ Linux *(2025.08 ~ 09)*
 - ⛏️ 영어 자격증 *(OPIC or TOEIC SPEAKING)*  
 <br><br>
 
@@ -127,7 +128,7 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 
 📧 Email: pwh1011@naver.com  
 🌐 GitHub: [jini-c](https://github.com/jini-c)  
-📚 Tech Blog (Coming Soon): https://changjin.dev  
+📚 Tech Blog : [https://changjin.dev  ](https://velog.io/@pwh1011/posts)
 📖 Tistory (Personal Journal): https://jini-c.tistory.com
 <br>
 

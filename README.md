@@ -118,7 +118,7 @@ AI 에이전트, UX 기반 서비스, 심리적 자동화 시스템 등에 매�
 ## 📊 Top Languages  
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini-c&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini-c&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400) 
 <br><br>
 
 ---
